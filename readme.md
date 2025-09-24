@@ -22,7 +22,9 @@
 ## Gallery
 
 ![Rosé Pine with Kate](./assets/rose-pine.png)
+
 ![Rosé Pine Moon with Kate](./assets/rose-pine-moon.png)
+
 ![Rosé Pine Dawn with Kate](./assets/rose-pine-dawn.png)
 
 ## Thanks to
